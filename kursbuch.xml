@@ -1,3 +1,27 @@
 <?xml version="1.0"?>
 <kontakte>
+    <student>
+        <name>Luca</name>
+        <alter>22</alter>
+        <brillentraeger>false</brillentraeger>
+        <bachelorurkunde></bachelorurkunde>
+    </student>
+    <student>
+        <name>Hildegard</name>
+        <alter>82</alter>
+        <brillentraeger>true</brillentraeger>
+        <bachelorurkunde></bachelorurkunde>
+    </student>
+    <student>
+        <name>Tim</name>
+        <alter>19</alter>
+        <brillentraeger>false</brillentraeger>
+        <bachelorurkunde></bachelorurkunde>
+    </student>
+    <student>
+        <name>Barbara</name>
+        <alter>32</alter>
+        <brillentraeger>false</brillentraeger>
+        <bachelorurkunde></bachelorurkunde>
+    </student>
 </kontakte>

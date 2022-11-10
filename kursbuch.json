@@ -1,0 +1,30 @@
+{
+    "kontakte" : {
+        "studierdne" : [
+            {
+                "name" : "Luca",
+                "alter" : 22,
+                "brillentraeger" : false,
+                "bachelorurkunde" : null
+            },
+            {
+                "name" : "Hildegard",
+                "alter" : 82,
+                "brillentraeger" : true,
+                "bachelorurkunde" : null
+            },
+            {
+                "name" : "Tim",
+                "alter" : 19,
+                "brillentraeger" : false,
+                "bachelorurkunde" : null
+            },
+            {
+                "name" : "Barbara",
+                "alter" : 32,
+                "brillentraeger" : false,
+                "bachelorurkunde" : null
+            }
+        ]
+    }
+}
